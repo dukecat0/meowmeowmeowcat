@@ -1,4 +1,3 @@
-Human.
 
 <!--START_SECTION:waka-->
 ```text
