@@ -8,3 +8,7 @@ Markdown   21 mins         █░░░░░░░░░░░░░░░░�
 Text       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 <!--END_SECTION:waka-->
+
+```
+I'm a million miles ahead of where I'm from, but I still have another million miles to go.
+```
