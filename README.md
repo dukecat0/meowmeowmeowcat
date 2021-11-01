@@ -9,6 +9,3 @@ Ruby       45 mins         ▓░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-```
-I'm a million miles ahead of where I'm from, but I still have another million miles to go.
-```
